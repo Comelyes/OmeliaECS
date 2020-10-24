@@ -1,0 +1,16 @@
+{
+    "name": "OmeliaSingleplayer",
+    "references": [
+        "GUID:8979e5b9ed38b420d8191f6eb2c94074",
+        "GUID:bf92cfd374bdc48efb61564269c31add"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
